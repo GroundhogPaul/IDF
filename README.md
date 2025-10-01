@@ -2,7 +2,7 @@
 <img src="https://dongjinkim9.github.io/projects/idf/assets/idf_logo.png" width="200" style="margin-left: auto; margin-right: auto; display: block;">
 <h1>IDF: Iterative Dynamic Filtering Networks <br>for Generalizable Image Denoising</h1>
 <h4>
-  <a href="https://scholar.google.com/citations?user=6I9aJxYAAAAJ">Dongjin Kim</a>*,
+  <a href="https://dongjinkim9.github.io">Dongjin Kim</a>*,
   <a href="https://scholar.google.com/citations?user=NBs5cTMAAAAJ">Jaekyun Ko</a>*,
   <a href="https://scholar.google.com/citations?user=FW4ylx4AAAAJ&hl">Muhammad Kashif Ali</a>,
   <a href="https://sites.google.com/view/lliger9/team/taehyunkim">Tae Hyun Kim<sup>&#8224;</sup></a>
