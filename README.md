@@ -120,13 +120,15 @@ Full qualitative comparisons are available on the project page:
 </p>
 
 ## 📚 Citation
-If you use this code or find it helpful, please cite:
+Please cite us if our work is useful for your research:
 
 ```bibtex
-@inproceedings{kim2025idf,
-    title={IDF: Iterative Dynamic Filtering Networks for Generalizable Image Denoising},
-    author={Kim, Dongjin and Ko, Jaekyun and Ali, Muhammad Kashif and Kim, Tae Hyun},
-    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-    year={2025}
+@InProceedings{Kim_2025_ICCV,
+    author    = {Kim, Dongjin and Ko, Jaekyun and Ali, Muhammad Kashif and Kim, Tae Hyun},
+    title     = {IDF: Iterative Dynamic Filtering Networks for Generalizable Image Denoising},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {12180-12190}
 }
 ```
